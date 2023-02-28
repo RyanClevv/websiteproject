@@ -15,8 +15,8 @@ section {
   background: linear-gradient(rgb(185, 253, 255), rgb(255, 139, 230), rgb(138, 222, 255));
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
-  height: 50vh;
+  justify-content: space-between;
+  height: 100vh;
   flex-wrap: wrap;
   padding: 20px;
   border: 10px;
@@ -50,7 +50,7 @@ h2 {
 a{
   display: block;
   text-align: center;
-  padding: 10px 20px;
+  padding: 20px;
   color: rgb(0, 0, 0);
   border-radius: 4px;
   font-size: 15px;
