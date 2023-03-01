@@ -1,5 +1,5 @@
 
-div {
+.card {
   background-color: rgb(253, 255, 141);
   height: 100px;
   width: 100px;
@@ -9,6 +9,30 @@ div {
   margin-top: 20px;
 
 }
+
+.panel {
+
+  background-color: rgb(253, 255, 141);
+  width: 75vh;
+  height: 75vh;
+  font-size: 200%;
+  border: 25px;
+  border-radius: 25px;
+
+
+
+}
+
+li {
+
+  margin: 40px;
+  padding: px;
+
+}
+
+
+
+
 
 section {
   /*background-color: rgb(187, 220, 221);*/
@@ -37,14 +61,14 @@ h1 {
 
 p {
   text-align: center;
-  
-}
+  }
 
 
 
 h2 {
   font-size: large;
-
+  text-align: center;
+  margin-top: 30px;
 }
 
 a{
@@ -57,8 +81,6 @@ a{
   background-color: rgb(255, 248, 150);
   width: fit-content;
   margin: auto;
-
-
 }
 
 body{
