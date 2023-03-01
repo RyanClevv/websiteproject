@@ -23,6 +23,21 @@
 
 }
 
+.square {
+
+  background-color: rgb(253, 255, 141);
+  width: 75vh;
+  height: 205vh;
+  border: 25px;
+  border-radius: 25px;
+
+
+}
+
+
+
+
+
 li {
 
   margin: 40px;
@@ -40,7 +55,7 @@ section {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  height: 100vh;
+  height: 230vh;
   flex-wrap: wrap;
   padding: 20px;
   border: 10px;
@@ -85,4 +100,10 @@ a{
 
 body{
 margin: 8px;
+}
+
+ul {
+text-align: center;
+
+
 }
